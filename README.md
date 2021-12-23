@@ -14,13 +14,13 @@ A React Native module that allows you to select a photo/video from the device li
 # Install
 
 ```
-yarn add react-native-image-picker
+yarn add react-native-quick-picker
 
 # RN >= 0.60
 cd ios && pod install
 
 # RN < 0.60
-react-native link react-native-image-picker
+react-native link react-native-quick-picker
 ```
 
 ## Post-install Steps
