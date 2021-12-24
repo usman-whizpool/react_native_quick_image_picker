@@ -1,6 +1,6 @@
 {
   "name": "react_native_quick_picker",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A React Native module that allows you to use native UI to select media from the device library or directly from the camera with addition of Fast loading of media, specially video in iOS",
   "main": "src/index.ts",
   "types": "lib/typescript/index.d.ts",
